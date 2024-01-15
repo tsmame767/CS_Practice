@@ -1,0 +1,15 @@
+D:\c#\CS_Practice\evenrange\bin\Debug\net6.0\evenrange.exe
+D:\c#\CS_Practice\evenrange\bin\Debug\net6.0\evenrange.deps.json
+D:\c#\CS_Practice\evenrange\bin\Debug\net6.0\evenrange.runtimeconfig.json
+D:\c#\CS_Practice\evenrange\bin\Debug\net6.0\evenrange.dll
+D:\c#\CS_Practice\evenrange\bin\Debug\net6.0\evenrange.pdb
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.AssemblyInfo.cs
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.sourcelink.json
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.dll
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\refint\evenrange.dll
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.pdb
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\evenrange.genruntimeconfig.cache
+D:\c#\CS_Practice\evenrange\obj\Debug\net6.0\ref\evenrange.dll
