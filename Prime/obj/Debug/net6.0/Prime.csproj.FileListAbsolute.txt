@@ -1,0 +1,14 @@
+D:\c#\CS_Practice\Prime\bin\Debug\net6.0\Prime.exe
+D:\c#\CS_Practice\Prime\bin\Debug\net6.0\Prime.deps.json
+D:\c#\CS_Practice\Prime\bin\Debug\net6.0\Prime.runtimeconfig.json
+D:\c#\CS_Practice\Prime\bin\Debug\net6.0\Prime.dll
+D:\c#\CS_Practice\Prime\bin\Debug\net6.0\Prime.pdb
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.GeneratedMSBuildEditorConfig.editorconfig
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.AssemblyInfoInputs.cache
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.AssemblyInfo.cs
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.csproj.CoreCompileInputs.cache
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.dll
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\refint\Prime.dll
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.pdb
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\Prime.genruntimeconfig.cache
+D:\c#\CS_Practice\Prime\obj\Debug\net6.0\ref\Prime.dll
